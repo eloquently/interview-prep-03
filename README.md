@@ -15,3 +15,9 @@ Run tests with:
 ```
 npm test path/to/file.js
 ```
+
+Run js with:
+
+```
+npm run node path/to/file.js
+```
